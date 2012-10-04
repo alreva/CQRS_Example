@@ -1,0 +1,9 @@
+﻿@model Site.Models.IndexModel
+
+<div class="catalog-tree">
+    @Html.DisplayFor(m => m.CatalogTree, "CatalogTreeModel")
+    @Html.ActionLink("add...", "Add", "Category")
+</div>
+<div class="product-list">
+    @Html.DisplayFor(m => m.Products)
+</div>

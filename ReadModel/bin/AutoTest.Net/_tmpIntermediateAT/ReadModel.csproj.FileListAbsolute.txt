@@ -1,0 +1,20 @@
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\_tmpIntermediateAT\ReadModel.csprojResolveAssemblyReference.cache
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\_tmpIntermediateAT\ReadModel.dll
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\_tmpIntermediateAT\ReadModel.pdb
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\ReadModel.dll
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\ReadModel.pdb
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\CQRS.dll
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\CQRS.pdb
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\Newtonsoft.Json.dll
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\Newtonsoft.Json.pdb
+D:\Example projects\CQRS_Example\ReadModel\bin\AutoTest.Net\Newtonsoft.Json.xml
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\_tmpIntermediateAT\ReadModel.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\_tmpIntermediateAT\ReadModel.dll
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\_tmpIntermediateAT\ReadModel.pdb
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\ReadModel.dll
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\ReadModel.pdb
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\CQRS.dll
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\CQRS.pdb
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\Newtonsoft.Json.pdb
+C:\Git\CQRS_Example\ReadModel\bin\AutoTest.Net\Newtonsoft.Json.xml

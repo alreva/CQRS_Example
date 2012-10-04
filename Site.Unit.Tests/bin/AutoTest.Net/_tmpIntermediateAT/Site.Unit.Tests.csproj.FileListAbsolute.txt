@@ -1,0 +1,59 @@
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.csprojResolveAssemblyReference.cache
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.Unit.Tests.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.Unit.Tests.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.Unity.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\nunit.framework.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\nunit.mocks.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Optimization.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\CQRS.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\ReadModel.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.WebHost.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.ServiceLocation.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Net.Http.Formatting.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\WebGrease.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Antlr3.Runtime.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.Unity.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\nunit.framework.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\CQRS.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\ReadModel.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.WebHost.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.ServiceLocation.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Net.Http.Formatting.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Model.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Model.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.Unit.Tests.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.Unit.Tests.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Optimization.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\CQRS.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\ReadModel.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Model.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.WebHost.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.ServiceLocation.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Net.Http.Formatting.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\WebGrease.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Antlr3.Runtime.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.Unity.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\nunit.framework.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\CQRS.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\ReadModel.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Model.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Web.Http.WebHost.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.ServiceLocation.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Net.Http.Formatting.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.xml

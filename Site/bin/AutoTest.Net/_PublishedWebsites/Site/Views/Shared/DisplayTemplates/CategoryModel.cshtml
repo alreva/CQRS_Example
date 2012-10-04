@@ -1,0 +1,8 @@
+﻿@model Site.Models.CategoryModel
+
+<a class="catalog-item-link level-@ViewBag.Level @Html.Raw(Model.Selected ? "selected" : string.Empty)" href="@Url.Action("Index", "Home", new{id = Url.Encode(Model.Id)})">@Model.Title</a>
+
+@foreach(var subItem in Model.Items)
+{
+    @Html.DisplayFor(m => subItem, new {Level = ViewBag.Level + 1})
+}

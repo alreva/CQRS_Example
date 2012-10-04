@@ -1,0 +1,3 @@
+TRUNCATE TABLE EventStore
+TRUNCATE TABLE CatalogTree
+TRUNCATE TABLE AvailableCategories

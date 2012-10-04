@@ -1,0 +1,7 @@
+﻿@model Site.Controllers.AddCategoryModel
+
+<div>
+    @Html.LabelFor(m => m.ParentId)
+    @Html.DropDownListFor(m => m.ParentId, Model.AvailableCategoryModels)
+</div>
+@Html.EditorFor(m => m.Title)

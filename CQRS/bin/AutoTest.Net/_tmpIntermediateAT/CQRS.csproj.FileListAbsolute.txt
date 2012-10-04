@@ -1,0 +1,16 @@
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\_tmpIntermediateAT\CQRS.csprojResolveAssemblyReference.cache
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\_tmpIntermediateAT\CQRS.dll
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\_tmpIntermediateAT\CQRS.pdb
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\CQRS.dll
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\CQRS.pdb
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\Newtonsoft.Json.dll
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\Newtonsoft.Json.pdb
+D:\Example projects\CQRS_Example\CQRS\bin\AutoTest.Net\Newtonsoft.Json.xml
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\_tmpIntermediateAT\CQRS.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\_tmpIntermediateAT\CQRS.dll
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\_tmpIntermediateAT\CQRS.pdb
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\CQRS.dll
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\CQRS.pdb
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\Newtonsoft.Json.pdb
+C:\Git\CQRS_Example\CQRS\bin\AutoTest.Net\Newtonsoft.Json.xml

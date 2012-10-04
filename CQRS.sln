@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS", "CQRS\CQRS.csproj", "{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadModel", "ReadModel\ReadModel.csproj", "{8ACDCA65-0B31-49A1-89D3-91766042432A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site", "Site\Site.csproj", "{A6F727E9-DF1A-4B49-BADE-1FA7715C5FC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{600D5D5F-B8D1-4A92-A29F-5C53CB72014D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site.Unit.Tests", "Site.Unit.Tests\Site.Unit.Tests.csproj", "{70455931-F2C7-4855-8F71-12AC60D6B257}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{738B2E9E-E211-4AD8-9980-F40C1E3D47F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unity", "Unity", "{220AD83F-F638-4CD6-880C-E98F1098C259}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\Unity\Microsoft.Practices.Unity.Configuration.dll = Lib\Unity\Microsoft.Practices.Unity.Configuration.dll
+		Lib\Unity\Microsoft.Practices.Unity.Configuration.xml = Lib\Unity\Microsoft.Practices.Unity.Configuration.xml
+		Lib\Unity\Microsoft.Practices.Unity.dll = Lib\Unity\Microsoft.Practices.Unity.dll
+		Lib\Unity\Microsoft.Practices.Unity.Interception.dll = Lib\Unity\Microsoft.Practices.Unity.Interception.dll
+		Lib\Unity\Microsoft.Practices.Unity.Interception.xml = Lib\Unity\Microsoft.Practices.Unity.Interception.xml
+		Lib\Unity\Microsoft.Practices.Unity.xml = Lib\Unity\Microsoft.Practices.Unity.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stubs", "Stubs\Stubs.csproj", "{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Json.Net", "Json.Net", "{AA42EE61-30AF-43FE-AC6D-BC142BFFF05E}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\Json.Net\Newtonsoft.Json.dll = Lib\Json.Net\Newtonsoft.Json.dll
+		Lib\Json.Net\Newtonsoft.Json.pdb = Lib\Json.Net\Newtonsoft.Json.pdb
+		Lib\Json.Net\Newtonsoft.Json.xml = Lib\Json.Net\Newtonsoft.Json.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{A0FC3350-53E3-494C-9DA8-C62589050204}"
+	ProjectSection(SolutionItems) = preProject
+		SQL\RecreateDB.sql = SQL\RecreateDB.sql
+		SQL\TruncateReadModel.sql = SQL\TruncateReadModel.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACDCA65-0B31-49A1-89D3-91766042432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACDCA65-0B31-49A1-89D3-91766042432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACDCA65-0B31-49A1-89D3-91766042432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACDCA65-0B31-49A1-89D3-91766042432A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F727E9-DF1A-4B49-BADE-1FA7715C5FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F727E9-DF1A-4B49-BADE-1FA7715C5FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F727E9-DF1A-4B49-BADE-1FA7715C5FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F727E9-DF1A-4B49-BADE-1FA7715C5FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70455931-F2C7-4855-8F71-12AC60D6B257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70455931-F2C7-4855-8F71-12AC60D6B257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70455931-F2C7-4855-8F71-12AC60D6B257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70455931-F2C7-4855-8F71-12AC60D6B257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70455931-F2C7-4855-8F71-12AC60D6B257} = {600D5D5F-B8D1-4A92-A29F-5C53CB72014D}
+		{220AD83F-F638-4CD6-880C-E98F1098C259} = {738B2E9E-E211-4AD8-9980-F40C1E3D47F3}
+		{AA42EE61-30AF-43FE-AC6D-BC142BFFF05E} = {738B2E9E-E211-4AD8-9980-F40C1E3D47F3}
+	EndGlobalSection
+EndGlobal

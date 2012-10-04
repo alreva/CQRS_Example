@@ -1,0 +1,12 @@
+﻿@model Site.Controllers.AddCategoryModel
+
+@{
+    ViewData["Title"] = "Add Category";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using(Html.BeginForm())
+{
+    @Html.EditorForModel()
+    <input type="submit" value="Save"/>
+}

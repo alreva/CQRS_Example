@@ -1,0 +1,24 @@
+﻿html {
+    background: none;
+}
+
+.catalog-tree {
+    float: left;
+    width: 300px;
+}
+
+.catalog-item-link {
+    display: block;
+}
+
+.level-0 {
+    
+}
+
+.catalog-item-link.selected {
+    font-weight: bold;
+}
+
+.level-1 {
+    margin-left: 10px;
+}
