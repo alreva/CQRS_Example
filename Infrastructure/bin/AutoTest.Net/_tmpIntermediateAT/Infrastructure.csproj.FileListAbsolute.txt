@@ -1,0 +1,11 @@
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\_tmpIntermediateAT\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\_tmpIntermediateAT\Infrastructure.dll
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\_tmpIntermediateAT\Infrastructure.pdb
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\Infrastructure.dll
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\Infrastructure.pdb
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\CQRS.dll
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\MessageContracts.dll
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\CQRS.pdb
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\Newtonsoft.Json.pdb
+C:\Git\CQRS_Example\Infrastructure\bin\AutoTest.Net\Newtonsoft.Json.xml

@@ -3,22 +3,8 @@ D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\_tmpIntermediateAT\Stubs
 D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\_tmpIntermediateAT\Stubs.pdb
 D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\Stubs.dll
 D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\Stubs.pdb
-D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\CQRS.dll
-D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\ReadModel.dll
-D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\CQRS.pdb
-D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\ReadModel.pdb
-D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\Newtonsoft.Json.dll
-D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\Newtonsoft.Json.pdb
-D:\Example projects\CQRS_Example\Stubs\bin\AutoTest.Net\Newtonsoft.Json.xml
 C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\_tmpIntermediateAT\Stubs.csprojResolveAssemblyReference.cache
 C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\_tmpIntermediateAT\Stubs.dll
 C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\_tmpIntermediateAT\Stubs.pdb
 C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\Stubs.dll
 C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\Stubs.pdb
-C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\CQRS.dll
-C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\ReadModel.dll
-C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\Newtonsoft.Json.dll
-C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\CQRS.pdb
-C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\ReadModel.pdb
-C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\Newtonsoft.Json.pdb
-C:\Git\CQRS_Example\Stubs\bin\AutoTest.Net\Newtonsoft.Json.xml

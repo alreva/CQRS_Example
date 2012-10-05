@@ -29,9 +29,9 @@ D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Net.Htt
 D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.xml
 D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Model.dll
 D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Model.pdb
-C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.csprojResolveAssemblyReference.cache
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.dll
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Site.Unit.Tests.csprojResolveAssemblyReference.cache
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.Unit.Tests.dll
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.Unit.Tests.pdb
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.dll
@@ -45,6 +45,7 @@ C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.Service
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\System.Net.Http.Formatting.dll
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.dll
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\WebGrease.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\MessageContracts.dll
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Antlr3.Runtime.dll
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Site.pdb
 C:\Git\CQRS_Example\Site.Unit.Tests\bin\AutoTest.Net\Microsoft.Practices.Unity.pdb

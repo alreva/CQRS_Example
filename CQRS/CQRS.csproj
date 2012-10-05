@@ -30,15 +30,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MessageContracts">
+      <HintPath>..\Lib\DataGen\MessageContracts.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\Lib\Json.Net\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdoNetConnectionProvider.cs" />
     <Compile Include="AdoNetEventHandler.cs" />
     <Compile Include="AdoNetEventStore.cs" />
     <Compile Include="AdoNetQueryService.cs" />
@@ -49,19 +54,26 @@
     <Compile Include="DbHelper.cs" />
     <Compile Include="Dto.cs" />
     <Compile Include="Event.cs" />
+    <Compile Include="EventPlayer.cs" />
     <Compile Include="EventPublisher.cs" />
     <Compile Include="ICommandSender.cs" />
-    <Compile Include="IConnectionProvider.cs" />
+    <Compile Include="IAdoNetConnectionProvider.cs" />
     <Compile Include="IEventHandler.cs" />
     <Compile Include="IEventPublisher.cs" />
     <Compile Include="IEventStore.cs" />
     <Compile Include="IHandle.cs" />
+    <Compile Include="Dsl\MessagesGenerator.cs" />
+    <Compile Include="ReadModelRemover.cs" />
+    <Compile Include="IReadModelRemover.cs" />
     <Compile Include="IRepository.cs" />
+    <Compile Include="IToEventConverter.cs" />
+    <Compile Include="IEventPlayer.cs" />
     <Compile Include="PrivateReflectionDynamicObject.cs" />
     <Compile Include="PrivateReflectionDynamicObjectExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Query.cs" />
     <Compile Include="Repository.cs" />
+    <Compile Include="ToEventConverter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

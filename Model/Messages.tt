@@ -1,0 +1,41 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="$(SolutionDir)\Lib\DataGen\MessageContracts.dll" #>
+<#@ assembly name="$(SolutionDir)\CQRS\bin\debug\cqrs.dll" #>
+<#@ import namespace="MessageContracts" #>
+<#@ import namespace="CQRS.Dsl" #>
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.CodeDom.Compiler;
+
+using CQRS;
+
+namespace Model
+{
+<# var generator = new MessagesGenerator();	
+	var dsl = @"
+	
+// common fragments
+
+let Id = string Id
+
+
+//ORDER
+
+AddCategory? (Id, string Title, string ParentId)
+CategoryAdded! (Id, string Title, string ParentId)
+
+ChangeCategoryTitle? (Id, string Title)
+CategoryTitleChanged? (Id, string Title)
+
+AddProduct? (Id, string Title, decimal Price, string ParentCategoryId)
+ProductAdded! (Id, string Title, decimal Price, string ParentCategoryId)
+ProductAddedToCategory! (string CategoryId)
+ProductRemovedFromCategory! (string CategoryId)
+ProductCategoryChanged! (string OldCategoryId, string NewCategoryId)
+
+	";	#>
+	<#= GeneratorUtil.Build(dsl, generator) #>
+}

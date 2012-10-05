@@ -139,7 +139,7 @@
     <Compile Include="App_Code\UnityBasedDependencyInjectionRegistrationContainer.cs" />
     <Compile Include="App_Code\UnityBasedDependencyResolver.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\CatalogController.cs" />
+    <Compile Include="Models\AddCategoryModel.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
@@ -148,6 +148,7 @@
     </Compile>
     <Compile Include="Models\CatalogItem.cs" />
     <Compile Include="Models\CategoryModel.cs" />
+    <Compile Include="Models\ChangeCategoryTitleModel.cs" />
     <Compile Include="Models\IndexModel.cs" />
     <Compile Include="Models\ProductsListModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -258,6 +259,7 @@
     <Content Include="Views\Shared\DisplayTemplates\CategoryModel.cshtml" />
     <Content Include="Views\Category\Add.cshtml" />
     <Content Include="Views\Shared\EditorTemplates\AddCategoryModel.cshtml" />
+    <Content Include="Views\Category\ChangeTitle.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -267,20 +269,16 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CQRS\CQRS.csproj">
-      <Project>{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}</Project>
+      <Project>{5db63c9f-3cc5-48ed-a582-5daea7329dc1}</Project>
       <Name>CQRS</Name>
     </ProjectReference>
     <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02}</Project>
+      <Project>{6eb45e36-2cd1-44c6-ab8d-ec69e41a9a02}</Project>
       <Name>Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\ReadModel\ReadModel.csproj">
-      <Project>{8ACDCA65-0B31-49A1-89D3-91766042432A}</Project>
+      <Project>{8acdca65-0b31-49a1-89d3-91766042432a}</Project>
       <Name>ReadModel</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Stubs\Stubs.csproj">
-      <Project>{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}</Project>
-      <Name>Stubs</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

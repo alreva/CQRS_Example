@@ -8,12 +8,13 @@ D:\Example projects\CQRS_Example\Model\bin\AutoTest.Net\CQRS.pdb
 D:\Example projects\CQRS_Example\Model\bin\AutoTest.Net\Newtonsoft.Json.dll
 D:\Example projects\CQRS_Example\Model\bin\AutoTest.Net\Newtonsoft.Json.pdb
 D:\Example projects\CQRS_Example\Model\bin\AutoTest.Net\Newtonsoft.Json.xml
-C:\Git\CQRS_Example\Model\bin\AutoTest.Net\_tmpIntermediateAT\Model.csprojResolveAssemblyReference.cache
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\_tmpIntermediateAT\Model.dll
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\_tmpIntermediateAT\Model.pdb
+C:\Git\CQRS_Example\Model\bin\AutoTest.Net\_tmpIntermediateAT\Model.csprojResolveAssemblyReference.cache
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\Model.dll
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\Model.pdb
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\CQRS.dll
+C:\Git\CQRS_Example\Model\bin\AutoTest.Net\MessageContracts.dll
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\Newtonsoft.Json.dll
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\CQRS.pdb
 C:\Git\CQRS_Example\Model\bin\AutoTest.Net\Newtonsoft.Json.pdb

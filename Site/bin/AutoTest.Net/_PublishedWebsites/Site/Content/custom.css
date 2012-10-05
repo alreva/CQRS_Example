@@ -8,7 +8,11 @@
 }
 
 .catalog-item-link {
-    display: block;
+    display: block;clear: both;float: left;
+}
+
+.catalog-item-edit {
+    float: left;
 }
 
 .level-0 {

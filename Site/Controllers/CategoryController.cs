@@ -5,6 +5,7 @@ using System.Web.Mvc;
 using CQRS;
 using Model;
 using ReadModel;
+using Site.Models;
 
 namespace Site.Controllers
 {
@@ -12,13 +13,16 @@ namespace Site.Controllers
     {
         private readonly ICommandSender _commandSender;
         private readonly IGetAvailableCategoriesQueryService _getAvailableCategoriesQueryService;
+        private readonly IGetAvailableCategoryByIdQueryService _getAvailableCategoryByIdQueryService;
 
         public CategoryController(
             ICommandSender commandSender,
-            IGetAvailableCategoriesQueryService getAvailableCategoriesQueryService)
+            IGetAvailableCategoriesQueryService getAvailableCategoriesQueryService,
+            IGetAvailableCategoryByIdQueryService getAvailableCategoryByIdQueryService)
         {
             _commandSender = commandSender;
             _getAvailableCategoriesQueryService = getAvailableCategoriesQueryService;
+            _getAvailableCategoryByIdQueryService = getAvailableCategoryByIdQueryService;
         }
 
         [HttpGet]
@@ -51,6 +55,20 @@ namespace Site.Controllers
 
             return RedirectToAction(null);
         }
+
+        [HttpGet]
+        public ActionResult ChangeTitle(string id)
+        {
+            var avilableCategoryDto = _getAvailableCategoryByIdQueryService.GetAvailableCategoryById(id);
+            return View(new ChangeCategoryTitleModel{ Id = avilableCategoryDto.Id, Title = avilableCategoryDto.Title});
+        }
+
+        [HttpPost]
+        public ActionResult ChangeTitle(ChangeCategoryTitleModel model)
+        {
+            //_commandSender.Send(new ChangeCategoryTitle(model.Id, model.Title));
+            return RedirectToAction(null);
+        }
     }
 
     public static class SelectListExtensions
@@ -61,6 +79,6 @@ namespace Site.Controllers
                 {
                     new SelectListItem {Value = value, Text = text}
                 }.Union(selectList);
-        } 
+        }
     }
 }

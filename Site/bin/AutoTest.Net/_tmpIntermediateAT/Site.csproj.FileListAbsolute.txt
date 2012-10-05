@@ -12,7 +12,6 @@ D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.Unity
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Web.Infrastructure.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Newtonsoft.Json.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\ReadModel.dll
-D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Stubs.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\System.Net.Http.Formatting.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\System.Web.Helpers.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\System.Web.Http.dll
@@ -28,7 +27,6 @@ D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\WebGrease.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.ServiceLocation.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\CQRS.pdb
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\ReadModel.pdb
-D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Stubs.pdb
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.Unity.xml
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.Unity.Configuration.xml
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.Unity.Interception.xml
@@ -45,9 +43,9 @@ D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\System.Web.WebPages.Deplo
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\System.Web.WebPages.Razor.xml
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Model.dll
 D:\Example projects\CQRS_Example\Site\bin\AutoTest.Net\Model.pdb
-C:\Git\CQRS_Example\Site\bin\AutoTest.Net\_tmpIntermediateAT\Site.csprojResolveAssemblyReference.cache
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\_tmpIntermediateAT\Site.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\_tmpIntermediateAT\Site.pdb
+C:\Git\CQRS_Example\Site\bin\AutoTest.Net\_tmpIntermediateAT\Site.csprojResolveAssemblyReference.cache
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Site.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Site.pdb
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Antlr3.Runtime.dll
@@ -60,7 +58,6 @@ C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Web.Infrastructure.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Model.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Newtonsoft.Json.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\ReadModel.dll
-C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Stubs.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\System.Net.Http.Formatting.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\System.Web.Helpers.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\System.Web.Http.dll
@@ -73,11 +70,11 @@ C:\Git\CQRS_Example\Site\bin\AutoTest.Net\System.Web.WebPages.Deployment.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\System.Web.WebPages.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\System.Web.WebPages.Razor.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\WebGrease.dll
+C:\Git\CQRS_Example\Site\bin\AutoTest.Net\MessageContracts.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.ServiceLocation.dll
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\CQRS.pdb
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Model.pdb
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\ReadModel.pdb
-C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Stubs.pdb
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.Unity.xml
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.Unity.Configuration.xml
 C:\Git\CQRS_Example\Site\bin\AutoTest.Net\Microsoft.Practices.Unity.Interception.xml

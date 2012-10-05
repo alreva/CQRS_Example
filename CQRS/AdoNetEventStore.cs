@@ -10,12 +10,15 @@ namespace CQRS
 {
     public class AdoNetEventStore : IEventStore
     {
-        private readonly IConnectionProvider _connectionProvider;
+        private readonly IAdoNetConnectionProvider _connectionProvider;
+        private readonly IToEventConverter _toEventConverter;
 
         public AdoNetEventStore(
-            IConnectionProvider connectionProvider)
+            IAdoNetConnectionProvider connectionProvider,
+            IToEventConverter toEventConverter)
         {
             _connectionProvider = connectionProvider;
+            _toEventConverter = toEventConverter;
         }
 
         public IEnumerable<Event> LoadEvents(string aggrerateRootType, string aggregateRootId)
@@ -38,30 +41,9 @@ namespace CQRS
                 {
                     while (dbReader.Read())
                     {
-                        yield return ToEvent(dbReader);
+                        yield return _toEventConverter.ToEvent(dbReader);
                     }
                 }
-            }
-        }
-
-        private static Event ToEvent(IDataRecord dbRecord)
-        {
-            var typeIndex = dbRecord.GetOrdinal("EventType");
-            var serializedDataIndex = dbRecord.GetOrdinal("EventData");
-
-            var eventTypeName = dbRecord.GetString(typeIndex);
-            var eventData = dbRecord.GetString(serializedDataIndex);
-
-            var eventType = Type.GetType(eventTypeName);
-            if (eventType == null)
-            {
-                throw new TypeLoadException(eventTypeName);
-            }
-
-            var serializer = new JsonSerializer();
-            using (TextReader reader = new StringReader(eventData))
-            {
-                return (Event)serializer.Deserialize(reader, eventType);
             }
         }
 

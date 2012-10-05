@@ -12,20 +12,22 @@ namespace Site.App_Start
             dependencyInjectionRegistrationContainer
                 .RegisterType<IGetCatalogTreeQueryService, GetCatalogTreeQueryService>()
                 .RegisterType<IGetAvailableCategoriesQueryService, GetAvailableCategoriesQueryService>()
+                .RegisterType<IGetAvailableCategoryByIdQueryService, GetAvailableCategoryByIdQueryService>()
 
                 .RegisterType<ICommandSender, CommandSender>()
-
                 .RegisterNamedType<IHandle, AddCategoryHandler>("add-category")
-
                 .RegisterType<IRepository<Category>, Repository<Category>>()
                 .RegisterType<IEventStore, AdoNetEventStore>()
+                .RegisterType<IToEventConverter, ToEventConverter>()
 
                 .RegisterType<IEventPublisher, EventPublisher>()
 
                 .RegisterNamedType<IEventHandler, UpdateCategoryTreeOnCategoryAdded>("UpdateCategoryTreeOnCategoryAdded")
                 .RegisterNamedType<IEventHandler, UpdateAvailableCategoriesOnCategoryAdded>("UpdateAvailableCategoriesOnCategoryAdded")
 
-                .RegisterType<IConnectionProvider, ConnectionProvider>("DefaultConnection");
+                .RegisterType<IAdoNetConnectionProvider, AdoNetConnectionProvider>("DefaultConnection")
+                .RegisterType<IReadModelRemover, ReadModelRemover>()
+                .RegisterType<IEventPlayer, EventPlayer>();
         }
     }
 }

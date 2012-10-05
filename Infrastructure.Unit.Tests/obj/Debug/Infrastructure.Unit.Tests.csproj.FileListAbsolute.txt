@@ -1,0 +1,15 @@
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\Infrastructure.Unit.Tests.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\Infrastructure.Unit.Tests.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\CQRS.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\Infrastructure.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\ReadModel.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\MessageContracts.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\CQRS.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\Infrastructure.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\ReadModel.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\Newtonsoft.Json.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\obj\Debug\Infrastructure.Unit.Tests.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\obj\Debug\Infrastructure.Unit.Tests.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\obj\Debug\Infrastructure.Unit.Tests.pdb

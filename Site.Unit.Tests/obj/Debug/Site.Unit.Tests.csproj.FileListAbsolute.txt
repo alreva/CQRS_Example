@@ -1,0 +1,56 @@
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.Unit.Tests.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.Unit.Tests.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\nunit.framework.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\nunit.mocks.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\CQRS.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\ReadModel.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Model.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\WebGrease.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\nunit.framework.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\CQRS.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\ReadModel.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Model.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Example projects\CQRS_Example\Site.Unit.Tests\obj\Debug\Site.Unit.Tests.csprojResolveAssemblyReference.cache
+D:\Example projects\CQRS_Example\Site.Unit.Tests\obj\Debug\Site.Unit.Tests.dll
+D:\Example projects\CQRS_Example\Site.Unit.Tests\obj\Debug\Site.Unit.Tests.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.Unit.Tests.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.Unit.Tests.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\CQRS.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\ReadModel.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Model.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\WebGrease.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Site.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\CQRS.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\ReadModel.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Model.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Git\CQRS_Example\Site.Unit.Tests\obj\Debug\Site.Unit.Tests.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Site.Unit.Tests\obj\Debug\Site.Unit.Tests.dll
+C:\Git\CQRS_Example\Site.Unit.Tests\obj\Debug\Site.Unit.Tests.pdb
+C:\Git\CQRS_Example\Site.Unit.Tests\bin\Debug\MessageContracts.dll

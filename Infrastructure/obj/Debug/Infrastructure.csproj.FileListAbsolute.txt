@@ -1,0 +1,11 @@
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\CQRS.dll
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\MessageContracts.dll
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\CQRS.pdb
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\Newtonsoft.Json.pdb
+C:\Git\CQRS_Example\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Git\CQRS_Example\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Git\CQRS_Example\Infrastructure\obj\Debug\Infrastructure.pdb

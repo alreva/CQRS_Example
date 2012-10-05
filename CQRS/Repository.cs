@@ -6,11 +6,14 @@ namespace CQRS
         where TAggregateRoot : AggregateRoot, new()
     {
         private readonly IEventStore _eventStore;
+        private readonly IEventPublisher _eventPublisher;
 
         public Repository(
-            IEventStore eventStore)
+            IEventStore eventStore,
+            IEventPublisher eventPublisher)
         {
             _eventStore = eventStore;
+            _eventPublisher = eventPublisher;
         }
 
         public TAggregateRoot Get(string aggregateRootId)
@@ -46,6 +49,8 @@ namespace CQRS
             }
 
             _eventStore.Save(aggrerateRootType, aggregateRootId, changes);
+
+            _eventPublisher.Publish(aggrerateRoot.Changes.ToArray());
         }
     }
 }

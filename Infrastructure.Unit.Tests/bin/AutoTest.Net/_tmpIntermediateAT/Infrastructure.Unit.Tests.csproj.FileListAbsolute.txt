@@ -1,0 +1,15 @@
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Infrastructure.Unit.Tests.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Infrastructure.Unit.Tests.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\_tmpIntermediateAT\Infrastructure.Unit.Tests.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\Infrastructure.Unit.Tests.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\Infrastructure.Unit.Tests.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\CQRS.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\Infrastructure.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\ReadModel.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\MessageContracts.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\CQRS.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\Infrastructure.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\ReadModel.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.pdb
+C:\Git\CQRS_Example\Infrastructure.Unit.Tests\bin\AutoTest.Net\Newtonsoft.Json.xml

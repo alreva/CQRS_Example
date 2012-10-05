@@ -32,24 +32,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CQRS\CQRS.csproj">
-      <Project>{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}</Project>
-      <Name>CQRS</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ReadModel\ReadModel.csproj">
-      <Project>{8acdca65-0b31-49a1-89d3-91766042432a}</Project>
-      <Name>ReadModel</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

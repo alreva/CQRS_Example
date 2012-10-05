@@ -9,7 +9,7 @@ namespace Model
     public class AddCategoryHandler : CommandHandler<Category,AddCategory>
     {
         public AddCategoryHandler(IRepository<Category> repository, IEventPublisher eventPublisher)
-            : base(repository, eventPublisher)
+            : base(repository)
         {
         }
 

@@ -7,7 +7,7 @@ namespace ReadModel.Infrastructure
 {
     public class GetCatalogTreeQueryService : AdoNetQueryService, IGetCatalogTreeQueryService
     {
-        public GetCatalogTreeQueryService(IConnectionProvider connectionProvider)
+        public GetCatalogTreeQueryService(IAdoNetConnectionProvider connectionProvider)
             : base(connectionProvider)
         {
         }

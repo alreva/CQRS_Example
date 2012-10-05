@@ -1,0 +1,12 @@
+﻿@model Site.Models.ChangeCategoryTitleModel
+
+@{
+    ViewData["Title"] = "Change category title";
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+@Html.EditorFor(m => m.Title)
+@using(Html.BeginForm())
+{
+    <input type="submit" value="Save"/>
+}

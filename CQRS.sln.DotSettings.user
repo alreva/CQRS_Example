@@ -1,6 +1,107 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">SOLUTION</s:String>
 	<s:Boolean x:Key="/Default/Environment/SearchAndNavigation/MergeOccurences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=01BAE3308F66494B8A51AC852B8B9B0A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=01BAE3308F66494B8A51AC852B8B9B0A/Name/@EntryValue">AllControllerDependenciesResolvedTests #12</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=01BAE3308F66494B8A51AC852B8B9B0A/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=04723A38F39C4531AEF8DBD8A17492F2/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=04723A38F39C4531AEF8DBD8A17492F2/Name/@EntryValue">AllControllerDependenciesResolvedTests #30</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=04723A38F39C4531AEF8DBD8A17492F2/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=07F738FB0FB54FB8B1D210783D8EF701/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=07F738FB0FB54FB8B1D210783D8EF701/Name/@EntryValue">AllControllerDependenciesResolvedTests #18</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=07F738FB0FB54FB8B1D210783D8EF701/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=090C7BA8E19C4CFB9D1232845EB1A7B2/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=090C7BA8E19C4CFB9D1232845EB1A7B2/Name/@EntryValue">AllControllerDependenciesResolvedTests #29</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=090C7BA8E19C4CFB9D1232845EB1A7B2/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1859E4789A754C4CBA003A8A9B9277A5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1859E4789A754C4CBA003A8A9B9277A5/Name/@EntryValue">AllControllerDependenciesResolvedTests #17</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1859E4789A754C4CBA003A8A9B9277A5/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=21D44879988A4F22ACC88961D934F014/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=21D44879988A4F22ACC88961D934F014/Name/@EntryValue">AllControllerDependenciesResolvedTests #11</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=21D44879988A4F22ACC88961D934F014/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2389C9B56E4A4D82A449926A3F688533/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2389C9B56E4A4D82A449926A3F688533/Name/@EntryValue">AllControllerDependenciesResolvedTests #7</s:String>
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2389C9B56E4A4D82A449926A3F688533/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2B6DEE71D1374B749DED03E1CF439B20/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2B6DEE71D1374B749DED03E1CF439B20/Name/@EntryValue">AllControllerDependenciesResolvedTests</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2B6DEE71D1374B749DED03E1CF439B20/TrackActiveElement/@EntryValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2B6DEE71D1374B749DED03E1CF439B20/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2D6A7708D4A9469E8D8D132132B3641D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2D6A7708D4A9469E8D8D132132B3641D/Name/@EntryValue">AllControllerDependenciesResolvedTests #13</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=2D6A7708D4A9469E8D8D132132B3641D/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=311FC3428763479F8924F283E3B2EDA8/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=311FC3428763479F8924F283E3B2EDA8/Name/@EntryValue">AllControllerDependenciesResolvedTests #35</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=311FC3428763479F8924F283E3B2EDA8/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=39EB64DD267D4192AEA68F900BC93F58/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=39EB64DD267D4192AEA68F900BC93F58/Name/@EntryValue">AllControllerDependenciesResolvedTests #27</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=39EB64DD267D4192AEA68F900BC93F58/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3A8E48A56F354107B57DAD04ABFD10AD/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3A8E48A56F354107B57DAD04ABFD10AD/Name/@EntryValue">AllControllerDependenciesResolvedTests #15</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3A8E48A56F354107B57DAD04ABFD10AD/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3AB1B1F5D4714D1B9841A3ED4226393D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3AB1B1F5D4714D1B9841A3ED4226393D/Name/@EntryValue">AllControllerDependenciesResolvedTests #10</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3AB1B1F5D4714D1B9841A3ED4226393D/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3BCB08475CDF4D19AA14004C6383C91B/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3BCB08475CDF4D19AA14004C6383C91B/Name/@EntryValue">AllControllerDependenciesResolvedTests #14</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3BCB08475CDF4D19AA14004C6383C91B/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4413798EF9124F74988B02A68DBDE31D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4413798EF9124F74988B02A68DBDE31D/Name/@EntryValue">AllControllerDependenciesResolvedTests #4</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4413798EF9124F74988B02A68DBDE31D/TrackActiveElement/@EntryValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=4413798EF9124F74988B02A68DBDE31D/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=6CCCCBDF6CB24A038754EEDF51F5ED21/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=6CCCCBDF6CB24A038754EEDF51F5ED21/Name/@EntryValue">AllControllerDependenciesResolvedTests #31</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=6CCCCBDF6CB24A038754EEDF51F5ED21/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=703D6B7C4F1644BF88E63FDAA8959D76/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=703D6B7C4F1644BF88E63FDAA8959D76/Name/@EntryValue">AllControllerDependenciesResolvedTests #21</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=703D6B7C4F1644BF88E63FDAA8959D76/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=79041DC50239432DA1DC7F18FAED2FEF/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=79041DC50239432DA1DC7F18FAED2FEF/Name/@EntryValue">AllControllerDependenciesResolvedTests #22</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=79041DC50239432DA1DC7F18FAED2FEF/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8888AD80DBC942BB9A02B99C7BA138C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8888AD80DBC942BB9A02B99C7BA138C5/Name/@EntryValue">AllControllerDependenciesResolvedTests #33</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8888AD80DBC942BB9A02B99C7BA138C5/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8CF6398DF9B44F0BBD4BCD7FE7066BEE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8CF6398DF9B44F0BBD4BCD7FE7066BEE/Name/@EntryValue">AllControllerDependenciesResolvedTests #8</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8CF6398DF9B44F0BBD4BCD7FE7066BEE/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8EE96BDA481A41CDB112CB2E0266070F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8EE96BDA481A41CDB112CB2E0266070F/Name/@EntryValue">AllControllerDependenciesResolvedTests #32</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8EE96BDA481A41CDB112CB2E0266070F/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A8E4FE74A59347D4AC79C8658D335369/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A8E4FE74A59347D4AC79C8658D335369/Name/@EntryValue">AllControllerDependenciesResolvedTests #36</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A8E4FE74A59347D4AC79C8658D335369/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AA4FB328A9BA40CFBB4922A19E58206E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AA4FB328A9BA40CFBB4922A19E58206E/Name/@EntryValue">AllControllerDependenciesResolvedTests #23</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AA4FB328A9BA40CFBB4922A19E58206E/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AAD80CB052CC413DACAA878324402DF6/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AAD80CB052CC413DACAA878324402DF6/Name/@EntryValue">AllControllerDependenciesResolvedTests #24</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AAD80CB052CC413DACAA878324402DF6/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AB19F41F09A44118A85B617182F31EA0/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AB19F41F09A44118A85B617182F31EA0/Name/@EntryValue">AllControllerDependenciesResolvedTests #34</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AB19F41F09A44118A85B617182F31EA0/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B0C3619F0AE74288BE604A5E98E7C27E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B0C3619F0AE74288BE604A5E98E7C27E/Name/@EntryValue">AllControllerDependenciesResolvedTests #25</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B0C3619F0AE74288BE604A5E98E7C27E/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B741B653AD31407C85CDAFF144382855/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B741B653AD31407C85CDAFF144382855/Name/@EntryValue">AllControllerDependenciesResolvedTests #19</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B741B653AD31407C85CDAFF144382855/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA35BDF7F7214DA9BD4E0F1227BF7CFE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA35BDF7F7214DA9BD4E0F1227BF7CFE/Name/@EntryValue">AllControllerDependenciesResolvedTests #9</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA35BDF7F7214DA9BD4E0F1227BF7CFE/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA612E5894094B8297C1ADD1840DAA1B/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA612E5894094B8297C1ADD1840DAA1B/Name/@EntryValue">AllControllerDependenciesResolvedTests #20</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BA612E5894094B8297C1ADD1840DAA1B/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BB48103A5E7C4D14A7A268245128BB22/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BB48103A5E7C4D14A7A268245128BB22/Name/@EntryValue">AllControllerDependenciesResolvedTests #6</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BB48103A5E7C4D14A7A268245128BB22/TrackActiveElement/@EntryValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BB48103A5E7C4D14A7A268245128BB22/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BD97E8A9127942C7AAB3E3E832A3C71E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BD97E8A9127942C7AAB3E3E832A3C71E/Name/@EntryValue">AllControllerDependenciesResolvedTests #26</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=BD97E8A9127942C7AAB3E3E832A3C71E/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
 	
 	
 	
@@ -12,125 +113,30 @@
 	
 	
 	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C253E3992CB343F7ADCB9D1F11757397/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C253E3992CB343F7ADCB9D1F11757397/Name/@EntryValue">AllControllerDependenciesResolvedTests #2</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C253E3992CB343F7ADCB9D1F11757397/TrackActiveElement/@EntryValue">True</s:Boolean>
 	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C253E3992CB343F7ADCB9D1F11757397/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C68EA947356947D9AF505311F82A750B/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C68EA947356947D9AF505311F82A750B/Name/@EntryValue">AllControllerDependenciesResolvedTests #37</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C68EA947356947D9AF505311F82A750B/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C71C0C8B9C644017AE35F895AF097F24/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C71C0C8B9C644017AE35F895AF097F24/Name/@EntryValue">AllControllerDependenciesResolvedTests #3</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C71C0C8B9C644017AE35F895AF097F24/TrackActiveElement/@EntryValue">True</s:Boolean>
 	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C71C0C8B9C644017AE35F895AF097F24/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C794DD4CA582494A896644563984B7DF/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C794DD4CA582494A896644563984B7DF/Name/@EntryValue">AllControllerDependenciesResolvedTests #16</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C794DD4CA582494A896644563984B7DF/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=DC002C0F755047A1A0B841D85062E0A7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=DC002C0F755047A1A0B841D85062E0A7/Name/@EntryValue">AllControllerDependenciesResolvedTests #5</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=DC002C0F755047A1A0B841D85062E0A7/TrackActiveElement/@EntryValue">True</s:Boolean>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=DC002C0F755047A1A0B841D85062E0A7/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestFixtureElement" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="nUnit" Id="Site.Unit.Tests.ControllerDependenciesIntegrityTests.AllControllerDependenciesResolvedTests" ParentId="Site.Unit.Tests.ControllerDependenciesIntegrityTests" type="NUnitTestElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests" MethodName="AllControllerDependenciesResolvedTests" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=FDA94559826A41B787F69D8FCC49488A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=FDA94559826A41B787F69D8FCC49488A/Name/@EntryValue">AllControllerDependenciesResolvedTests #28</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=FDA94559826A41B787F69D8FCC49488A/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:Site.Unit.Tests.ControllerDependenciesIntegrityTests2" type="MsTestTestClassElement" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests2" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:Infrastructure.Unit.Tests.DtoDataReaderTests+Where" type="MsTestTestClassElement" TypeName="Infrastructure.Unit.Tests.DtoDataReaderTests+Where" Project="FBBD1DF4-8EA5-43F3-AF79-B08A0351798B" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:Site.Unit.Tests.ControllerDependenciesIntegrityTests2.AllControllerDependenciesResolvedTests" ParentId="MsTest:Site.Unit.Tests.ControllerDependenciesIntegrityTests2" type="MsTestTestMethodElement" MethodName="AllControllerDependenciesResolvedTests" TypeName="Site.Unit.Tests.ControllerDependenciesIntegrityTests2" Project="70455931-F2C7-4855-8F71-12AC60D6B257" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:Infrastructure.Unit.Tests.DtoDataReaderTests+Where.two_clauses_parsed_correctly" ParentId="MsTest:Infrastructure.Unit.Tests.DtoDataReaderTests+Where" type="MsTestTestMethodElement" MethodName="two_clauses_parsed_correctly" TypeName="Infrastructure.Unit.Tests.DtoDataReaderTests+Where" Project="FBBD1DF4-8EA5-43F3-AF79-B08A0351798B" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
 	
 	
 	

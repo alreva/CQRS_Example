@@ -6,6 +6,7 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using CQRS;
 using Site.App_Start;
 
 namespace Site
@@ -27,6 +28,9 @@ namespace Site
             DependencyInjectionConfig.ConfigureDependencies(DependencyInjection.RegistrationContainer);
 
             DependencyResolver.SetResolver(DependencyInjection.RegistrationContainer.DependencyResolver);
+
+            DependencyResolver.Current.GetService<IReadModelRemover>().Remove();
+            DependencyResolver.Current.GetService<IEventPlayer>().Play();
         }
     }
 }

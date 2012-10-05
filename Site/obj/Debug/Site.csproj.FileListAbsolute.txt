@@ -1,0 +1,90 @@
+D:\Example projects\CQRS_Example\Site\bin\Site.dll
+D:\Example projects\CQRS_Example\Site\bin\Site.pdb
+D:\Example projects\CQRS_Example\Site\bin\Antlr3.Runtime.dll
+D:\Example projects\CQRS_Example\Site\bin\CQRS.dll
+D:\Example projects\CQRS_Example\Site\bin\EntityFramework.dll
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Practices.Unity.dll
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Web.Infrastructure.dll
+D:\Example projects\CQRS_Example\Site\bin\Model.dll
+D:\Example projects\CQRS_Example\Site\bin\Newtonsoft.Json.dll
+D:\Example projects\CQRS_Example\Site\bin\ReadModel.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Net.Http.Formatting.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Helpers.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Http.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Http.WebHost.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Mvc.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Optimization.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Providers.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Razor.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.WebPages.Deployment.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.WebPages.dll
+D:\Example projects\CQRS_Example\Site\bin\System.Web.WebPages.Razor.dll
+D:\Example projects\CQRS_Example\Site\bin\WebGrease.dll
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Example projects\CQRS_Example\Site\bin\CQRS.pdb
+D:\Example projects\CQRS_Example\Site\bin\Model.pdb
+D:\Example projects\CQRS_Example\Site\bin\ReadModel.pdb
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Practices.Unity.xml
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Example projects\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Interception.xml
+D:\Example projects\CQRS_Example\Site\bin\EntityFramework.xml
+D:\Example projects\CQRS_Example\Site\bin\Newtonsoft.Json.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Net.Http.Formatting.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Helpers.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Http.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Http.WebHost.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Mvc.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.Razor.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.WebPages.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.WebPages.Deployment.xml
+D:\Example projects\CQRS_Example\Site\bin\System.Web.WebPages.Razor.xml
+D:\Example projects\CQRS_Example\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+D:\Example projects\CQRS_Example\Site\obj\Debug\Site.dll
+D:\Example projects\CQRS_Example\Site\obj\Debug\Site.pdb
+C:\Git\CQRS_Example\Site\bin\Site.dll
+C:\Git\CQRS_Example\Site\bin\Site.pdb
+C:\Git\CQRS_Example\Site\bin\Antlr3.Runtime.dll
+C:\Git\CQRS_Example\Site\bin\CQRS.dll
+C:\Git\CQRS_Example\Site\bin\EntityFramework.dll
+C:\Git\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Git\CQRS_Example\Site\bin\Microsoft.Practices.Unity.dll
+C:\Git\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Git\CQRS_Example\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\CQRS_Example\Site\bin\Model.dll
+C:\Git\CQRS_Example\Site\bin\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\Site\bin\ReadModel.dll
+C:\Git\CQRS_Example\Site\bin\System.Net.Http.Formatting.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.Helpers.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.Http.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.Http.WebHost.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.Mvc.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.Optimization.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.Providers.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.Razor.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.WebPages.dll
+C:\Git\CQRS_Example\Site\bin\System.Web.WebPages.Razor.dll
+C:\Git\CQRS_Example\Site\bin\WebGrease.dll
+C:\Git\CQRS_Example\Site\bin\CQRS.pdb
+C:\Git\CQRS_Example\Site\bin\Model.pdb
+C:\Git\CQRS_Example\Site\bin\ReadModel.pdb
+C:\Git\CQRS_Example\Site\bin\Microsoft.Practices.Unity.xml
+C:\Git\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Git\CQRS_Example\Site\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Git\CQRS_Example\Site\bin\EntityFramework.xml
+C:\Git\CQRS_Example\Site\bin\Newtonsoft.Json.xml
+C:\Git\CQRS_Example\Site\bin\System.Net.Http.Formatting.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.Helpers.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.Http.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.Http.WebHost.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.Mvc.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.Razor.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.WebPages.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Git\CQRS_Example\Site\bin\System.Web.WebPages.Razor.xml
+C:\Git\CQRS_Example\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Site\obj\Debug\Site.dll
+C:\Git\CQRS_Example\Site\obj\Debug\Site.pdb
+C:\Git\CQRS_Example\Site\bin\MessageContracts.dll

@@ -1,0 +1,9 @@
+D:\Example projects\CQRS_Example\Stubs\bin\Debug\Stubs.dll
+D:\Example projects\CQRS_Example\Stubs\bin\Debug\Stubs.pdb
+D:\Example projects\CQRS_Example\Stubs\obj\Debug\Stubs.dll
+D:\Example projects\CQRS_Example\Stubs\obj\Debug\Stubs.pdb
+C:\Git\CQRS_Example\Stubs\bin\Debug\Stubs.dll
+C:\Git\CQRS_Example\Stubs\bin\Debug\Stubs.pdb
+C:\Git\CQRS_Example\Stubs\obj\Debug\Stubs.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\Stubs\obj\Debug\Stubs.dll
+C:\Git\CQRS_Example\Stubs\obj\Debug\Stubs.pdb

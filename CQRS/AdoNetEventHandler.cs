@@ -6,10 +6,10 @@ namespace CQRS
     public abstract class AdoNetEventHandler<TEvent> : IEventHandler
         where TEvent : Event
     {
-        private readonly IConnectionProvider _connectionProvider;
+        private readonly IAdoNetConnectionProvider _connectionProvider;
 
         public AdoNetEventHandler(
-            IConnectionProvider connectionProvider)
+            IAdoNetConnectionProvider connectionProvider)
         {
             _connectionProvider = connectionProvider;
         }

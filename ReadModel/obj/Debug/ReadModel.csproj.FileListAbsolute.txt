@@ -1,0 +1,21 @@
+D:\Example projects\CQRS_Example\ReadModel\bin\Debug\ReadModel.dll
+D:\Example projects\CQRS_Example\ReadModel\bin\Debug\ReadModel.pdb
+D:\Example projects\CQRS_Example\ReadModel\bin\Debug\CQRS.dll
+D:\Example projects\CQRS_Example\ReadModel\bin\Debug\Newtonsoft.Json.dll
+D:\Example projects\CQRS_Example\ReadModel\bin\Debug\CQRS.pdb
+D:\Example projects\CQRS_Example\ReadModel\bin\Debug\Newtonsoft.Json.pdb
+D:\Example projects\CQRS_Example\ReadModel\bin\Debug\Newtonsoft.Json.xml
+D:\Example projects\CQRS_Example\ReadModel\obj\Debug\ReadModel.csprojResolveAssemblyReference.cache
+D:\Example projects\CQRS_Example\ReadModel\obj\Debug\ReadModel.dll
+D:\Example projects\CQRS_Example\ReadModel\obj\Debug\ReadModel.pdb
+C:\Git\CQRS_Example\ReadModel\bin\Debug\ReadModel.dll
+C:\Git\CQRS_Example\ReadModel\bin\Debug\ReadModel.pdb
+C:\Git\CQRS_Example\ReadModel\bin\Debug\CQRS.dll
+C:\Git\CQRS_Example\ReadModel\bin\Debug\Newtonsoft.Json.dll
+C:\Git\CQRS_Example\ReadModel\bin\Debug\CQRS.pdb
+C:\Git\CQRS_Example\ReadModel\bin\Debug\Newtonsoft.Json.pdb
+C:\Git\CQRS_Example\ReadModel\bin\Debug\Newtonsoft.Json.xml
+C:\Git\CQRS_Example\ReadModel\obj\Debug\ReadModel.csprojResolveAssemblyReference.cache
+C:\Git\CQRS_Example\ReadModel\obj\Debug\ReadModel.dll
+C:\Git\CQRS_Example\ReadModel\obj\Debug\ReadModel.pdb
+C:\Git\CQRS_Example\ReadModel\bin\Debug\MessageContracts.dll

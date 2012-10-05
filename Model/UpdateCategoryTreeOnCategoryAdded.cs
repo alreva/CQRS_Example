@@ -5,7 +5,7 @@ namespace Model
 {
     public class UpdateCategoryTreeOnCategoryAdded : AdoNetEventHandler<CategoryAdded>
     {
-        public UpdateCategoryTreeOnCategoryAdded(IConnectionProvider connectionProvider) : base(connectionProvider)
+        public UpdateCategoryTreeOnCategoryAdded(IAdoNetConnectionProvider connectionProvider) : base(connectionProvider)
         {
         }
 

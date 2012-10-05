@@ -5,7 +5,7 @@ namespace Model
 {
     public class UpdateAvailableCategoriesOnCategoryAdded : AdoNetEventHandler<CategoryAdded>
     {
-        public UpdateAvailableCategoriesOnCategoryAdded(IConnectionProvider connectionProvider) : base(connectionProvider)
+        public UpdateAvailableCategoriesOnCategoryAdded(IAdoNetConnectionProvider connectionProvider) : base(connectionProvider)
         {
         }
 

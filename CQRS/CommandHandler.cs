@@ -7,14 +7,11 @@ namespace CQRS
         where TCommand : Command where TAggregateRoot : AggregateRoot
     {
         private readonly IRepository<TAggregateRoot> _repository;
-        private readonly IEventPublisher _eventPublisher;
 
         public CommandHandler(
-            IRepository<TAggregateRoot> repository,
-            IEventPublisher eventPublisher)
+            IRepository<TAggregateRoot> repository)
         {
             _repository = repository;
-            _eventPublisher = eventPublisher;
         }
 
         public Type CommandType { get { return typeof (TCommand); } }
@@ -33,9 +30,6 @@ namespace CQRS
             DoDomainLogicWith(aggrerateRoot, specificCommand);
 
             _repository.Save(aggrerateRoot);
-
-            // TODO: move to Event Store
-            _eventPublisher.Publish(aggrerateRoot.Changes.ToArray());
         }
 
         protected abstract string GetAggregateRootId(TCommand cmd);

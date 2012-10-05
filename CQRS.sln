@@ -40,6 +40,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{A0FC3350-53E
 		SQL\TruncateReadModel.sql = SQL\TruncateReadModel.sql
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Integration.Tests", "CQRS.Integration.Tests\CQRS.Integration.Tests.csproj", "{67630FB3-0B92-4FA1-99A6-2FDAB0725BDF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02} = {6EB45E36-2CD1-44C6-AB8D-EC69E41A9A02}
+		{5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1} = {5DB63C9F-3CC5-48ED-A582-5DAEA7329DC1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5A2D33DC-4AC6-4480-9805-8BDE273FCFEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataGen", "DataGen", "{BAD0737D-13C1-422B-98BA-DE929E25720B}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\DataGen\MessageContracts.dll = Lib\DataGen\MessageContracts.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Unit.Tests", "Infrastructure.Unit.Tests\Infrastructure.Unit.Tests.csproj", "{FBBD1DF4-8EA5-43F3-AF79-B08A0351798B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,13 +85,28 @@ Global
 		{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D798A0E-0E65-48C4-8FA1-F1DF6D70C212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67630FB3-0B92-4FA1-99A6-2FDAB0725BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67630FB3-0B92-4FA1-99A6-2FDAB0725BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67630FB3-0B92-4FA1-99A6-2FDAB0725BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67630FB3-0B92-4FA1-99A6-2FDAB0725BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2D33DC-4AC6-4480-9805-8BDE273FCFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2D33DC-4AC6-4480-9805-8BDE273FCFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2D33DC-4AC6-4480-9805-8BDE273FCFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2D33DC-4AC6-4480-9805-8BDE273FCFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBD1DF4-8EA5-43F3-AF79-B08A0351798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBD1DF4-8EA5-43F3-AF79-B08A0351798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBD1DF4-8EA5-43F3-AF79-B08A0351798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBD1DF4-8EA5-43F3-AF79-B08A0351798B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{70455931-F2C7-4855-8F71-12AC60D6B257} = {600D5D5F-B8D1-4A92-A29F-5C53CB72014D}
+		{67630FB3-0B92-4FA1-99A6-2FDAB0725BDF} = {600D5D5F-B8D1-4A92-A29F-5C53CB72014D}
+		{FBBD1DF4-8EA5-43F3-AF79-B08A0351798B} = {600D5D5F-B8D1-4A92-A29F-5C53CB72014D}
 		{220AD83F-F638-4CD6-880C-E98F1098C259} = {738B2E9E-E211-4AD8-9980-F40C1E3D47F3}
 		{AA42EE61-30AF-43FE-AC6D-BC142BFFF05E} = {738B2E9E-E211-4AD8-9980-F40C1E3D47F3}
+		{BAD0737D-13C1-422B-98BA-DE929E25720B} = {738B2E9E-E211-4AD8-9980-F40C1E3D47F3}
 	EndGlobalSection
 EndGlobal

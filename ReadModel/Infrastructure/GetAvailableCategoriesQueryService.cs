@@ -1,12 +1,11 @@
 ﻿using System.Collections.Generic;
-using System.Data;
 using CQRS;
 
 namespace ReadModel.Infrastructure
 {
     public class GetAvailableCategoriesQueryService : AdoNetQueryService, IGetAvailableCategoriesQueryService
     {
-        public GetAvailableCategoriesQueryService(IConnectionProvider connectionProvider)
+        public GetAvailableCategoriesQueryService(IAdoNetConnectionProvider connectionProvider)
             : base(connectionProvider)
         {
         }
@@ -15,17 +14,9 @@ namespace ReadModel.Infrastructure
         {
             return ExecuteDirectTableReaderEnumerable(
                 "AvailableCategories",
-                ToCategory);
+                QueryServiceHelper.ToCategory);
         }
 
-        private static AvailableCategoryDto ToCategory(IDataReader dbReader)
-        {
-            var idIndex = dbReader.GetOrdinal("ID");
-            var titleIndex = dbReader.GetOrdinal("Title");
 
-            return new AvailableCategoryDto(
-                dbReader.GetString(idIndex),
-                dbReader.GetString(titleIndex));
-        }
     }
 }

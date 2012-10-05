@@ -59,7 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Site\Site.csproj">
-      <Project>{A6F727E9-DF1A-4B49-BADE-1FA7715C5FC9}</Project>
+      <Project>{a6f727e9-df1a-4b49-bade-1fa7715c5fc9}</Project>
       <Name>Site</Name>
     </ProjectReference>
   </ItemGroup>
